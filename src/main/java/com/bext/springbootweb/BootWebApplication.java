@@ -1,4 +1,4 @@
-package com.bext.springbootweb.bootWeb;
+package com.bext.springbootweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
